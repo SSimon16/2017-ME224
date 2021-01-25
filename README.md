@@ -22,8 +22,10 @@ Once the dots have disappeared, type "J" in the command line if the dot on the r
 
 Continue through all 3 trials, and then results will be printed to the terminal screen.
 
-## Note
+## Notes
 This project is part of the ME224: Experimental Engineering course at Northwestern Unversity in Fall 2017. 
+
+This code runs on Python 2.X
 
 ## Questions and Feedback
 Please contact Spencer Simon at spencersimon16@gmail.com with questions or feedback.
