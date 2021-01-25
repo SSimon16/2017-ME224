@@ -1,6 +1,7 @@
 ##########################################################################################
 ### ME 224 Project
-### Version 1 Preliminary Testing
+### Final 
+### Python 2
 
 import time
 from Tkinter import*
