@@ -14,7 +14,7 @@ Run the experiment.py file in the command line.
 
 Enter "Y" in the command line when prompted to move to the next step.
 
-The program will open a new window to display dots, which looks like this:
+The program will open a new window to display dots, which look like this:
 ![Sample Window Image](https://github.com/SSimon16/2017-ME224/blob/main/sample-screen.png)
 
 
