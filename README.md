@@ -15,6 +15,8 @@ Run the experiment.py file in the command line.
 Enter "Y" in the command line when prompted to move to the next step.
 
 The program will open a new window to display dots, which looks like this:
+![Sample Window Image](https://github.com/SSimon16/2017-ME224/blob/main/sample-screen.png)
+
 
 Once the dots have disappeared, type "J" in the command line if the dot on the right is larger, and type "F" if the dot on the left is larger. Hit enter, and the next set of dots will be displayed about a second later.
 
