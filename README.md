@@ -9,7 +9,7 @@ The experiment involves displaying two dots of various sizes on a computer scree
 
 This approach narrows in on the range at which a user can determine which of the two dots is larger. The experiment runs through many tests over multiple trials, and then prints the results to screen when finished.
 
-See [experiment-presentation.py](https://github.com/SSimon16/2017-ME224/blob/main/experiment-presentation.pdf) for additional details.
+See [experiment-presentation.pdf](https://github.com/SSimon16/2017-ME224/blob/main/experiment-presentation.pdf) for additional details.
 
 ### Project Goal
 This project seeks to quantify the human eye’s ability to discriminate intensity (size) differences between similar shapes of various sizes. By comparing sets of circles with diameters of ranging magnitude and size differences, we can create a simple model for size discrimination across a
